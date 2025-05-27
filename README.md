@@ -6,7 +6,7 @@
 - Packages: PyTorch 1.10.0, Transformers 4.24.0
 
 ## Datasets
-[Empathetic Dialogues](https://github.com/facebookresearch/EmpatheticDialogues), [GoEmotions](https://github.com/google-research/google-research/tree/master/goemotions)).
+[Empathetic Dialogues](https://github.com/facebookresearch/EmpatheticDialogues), [GoEmotions](https://github.com/google-research/google-research/tree/master/goemotions).
 
 ## Reproduce
 
